@@ -1,0 +1,5 @@
+homepage: "https://www.attriva.com/"
+documentation: "https://attriva.com/google-tag-manager-template-for-drift/"
+versions:
+  - sha: d12161521fa140408c9e01b162314d9d565bff34
+    changeNotes: Template file Added to lib
